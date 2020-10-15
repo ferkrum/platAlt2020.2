@@ -15,11 +15,11 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 * S08 - ...
 * S09 - Entrega do Concept DOC + Protótipo de comunicação do Arduino c/ a Unity
 ---
-* S10 - Orientações e resoluções de dúvidas. Github.
+* S10 - Orientações e resoluções de dúvidas. Novos componentes: Buzzer + Ultrassom.
 * S11 - Orientações e resoluções de dúvidas. 
-* S12 - Atualizar github! 
+* S12 - **Entrega do Design Doc completo.** 
 * S13 - Acompanhamento de projeto. 
-* S14 - Versão Beta + playtest.
+* S14 - **Versão Beta + playtest.**
 * S15 - Acompanhamento de projeto. 
 * S16 - Acompanhamento de projeto.
 * S17 - Apresentação Versão Completa polida. Submissão do Projeto p/ **ctrl.alt.Unisinos**. [INSTRUÇÕES Entrega projeto final](entregaProjetoFinal.md)
