@@ -9,4 +9,7 @@ Lojas físicas:
 1. [PNP Componentes Eletrônicos (Novo Hamburgo)](https://www.guiamais.com.br/novo-hamburgo-rs/comercio-de-produtos-e-servicos/lojas-de-componentes-eletronicos/13970904-2/pnp-componentes-eletronicos)  
 2. Mercado Eletrônico (Novo Hamburbo): 3581-2014  
 3. Eletrônica System (POA, Rua Alberto Bins, 850). 
+4. MB3 Eletrônica (Novo Hamburgo). ------ tem o acelerômetro, aprox. R$22,00. pronta entrega!
+
+
 
