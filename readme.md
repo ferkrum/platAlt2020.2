@@ -10,7 +10,7 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 <img src="notas de aula/plat. alt. para github 2020-2.jpg" width=700>
 
 
-<--
+
 ## Lista de Projetos:
 * [Grupo 1: Fire Jungle Escape](https://github.com/ferkrum/platAlt2020.2/wiki/Grupo-1:-Fire-Jungle-Escape) | [Vídeo Gameplay](https://youtu.be/AgdwyKizZe0). [itch.io](https://andi-bd.itch.io/fire-jungle-escape).
 * [Grupo 2: A Bottle of Solutions](https://github.com/ferkrum/platAlt2020.2/wiki/Grupo-2:-A-Bottle-of-Solutions) | [Vídeo Gameplay](https://www.youtube.com/watch?v=U9IKymbFw2U&feature=youtu.be). [itch.io](https://gabrielgborges.itch.io/shoot-saber).
@@ -24,7 +24,14 @@ Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na pá
 
 
 ## Cronograma de desenvolvimento:
-...
+* S01 - Intro
+* S02 - Explorando/compartilhando referências. Aualizando página Wiki do Github.
+* S03 - [expositivo/práticas]
+* S04 - [expositivo/práticas]
+* S05 - [expositivo/práticas]
+* S06 - [expositivo/práticas]
+* S07 - [expositivo/práticas]
+* S08 - [expositivo/práticas]
 * S09 - Entrega do Concept DOC + Protótipo de comunicação do Arduino c/ a Unity
 ---
 * S10 - Orientações e resoluções de dúvidas. Novos componentes: Buzzer + Ultrassom.
