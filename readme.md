@@ -12,30 +12,19 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 
 <--
 ## Lista de Projetos:
-* [Grupo A: Gravity Maze](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-A%3A-Gravity-Maze) | [Vídeo Gameplay](https://youtu.be/AgdwyKizZe0). [itch.io](https://edu060.itch.io/gravity-maze).
-* [Grupo B: Shoot Saber](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-B:-Shoot-Saber) | [Vídeo Gameplay](https://www.youtube.com/watch?v=U9IKymbFw2U&feature=youtu.be). [itch.io](https://gabrielgborges.itch.io/shoot-saber).
-* [Grupo C: Tank War Drawing](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-C:-Tank-War-Drawing) | [Vídeo gameplay](https://youtu.be/U9IKymbFw2U). [itch.io](https://thicosta1995gmailcom.itch.io/tank-war-drawing).
-* [Grupo D: Pigeon Delivery](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-D%3A-Pigeon-Delivery) | [Vídeo gameplay](https://www.youtube.com/watch?v=RMRuKr5Q_Xo&feature=emb_title). [itch.io](https://bugnature.itch.io/pigeon-delivery)
-* [Grupo E: Spaceship Warrior](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-E%3A-Spaceship-Warrior) | [Vídeo gameplay](https://www.youtube.com/watch?v=HTK1SUHw77U&feature=emb_title). [itch.io](https://projetogb.itch.io/spaceshipwarrior).
+* [Grupo 1: Fire Jungle Escape](https://github.com/ferkrum/platAlt2020.2/wiki/Grupo-1:-Fire-Jungle-Escape) | [Vídeo Gameplay](https://youtu.be/AgdwyKizZe0). [itch.io](https://andi-bd.itch.io/fire-jungle-escape).
+* [Grupo 2: A Bottle of Solutions](https://github.com/ferkrum/platAlt2020.2/wiki/Grupo-2:-A-Bottle-of-Solutions) | [Vídeo Gameplay](https://www.youtube.com/watch?v=U9IKymbFw2U&feature=youtu.be). [itch.io](https://gabrielgborges.itch.io/shoot-saber).
+* [Grupo 3: Plunger Escape](https://github.com/ferkrum/platAlt2020.2/wiki/Grupo-3:-Plunger-Escape) | [Vídeo gameplay](https://youtu.be/U9IKymbFw2U). [itch.io](https://thicosta1995gmailcom.itch.io/tank-war-drawing).
+* [Grupo 4: Fruit for Monkey](https://github.com/ferkrum/platAlt2020.2/wiki/Grupo-4:-Fruit-for-Monkey) | Vídeo gameplay. [itch.io](https://mileswings.itch.io/ffm)
 
-Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.1/wiki) desse repositório.
-
-!-->
-
+Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.2/wiki) desse repositório.
 
 
 
 
 
 ## Cronograma de desenvolvimento:
-* S01 - Intro
-* S02 - Explorando/compartilhando referências. Aualizando página Wiki do Github.
-* S03 - ...
-* S04 - ...
-* S05 - ...
-* S06 - ...
-* S07 - ...
-* S08 - ...
+...
 * S09 - Entrega do Concept DOC + Protótipo de comunicação do Arduino c/ a Unity
 ---
 * S10 - Orientações e resoluções de dúvidas. Novos componentes: Buzzer + Ultrassom.
@@ -45,7 +34,7 @@ Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na pá
 * S14 - **Versão Beta + playtest.**
 * S15 - Acompanhamento de projeto. 
 * S16 - Acompanhamento de projeto.
-* S17 - Apresentação Versão Completa polida. Submissão do Projeto p/ **ctrl.alt.Unisinos**. [INSTRUÇÕES Entrega projeto final](entregaProjetoFinal.md)
+* S17 - Apresentação Versão Completa polida. Submissão do Projeto p/ **ctrl.alt.Unisinos**.
 * S18 - Entrega de notas e Divulgação do Projeto (itch.io) // Procurar por tags "altctrl", "arduino"
   * Exemplo: https://llucile.itch.io/poseidon
 * S19 - GC
